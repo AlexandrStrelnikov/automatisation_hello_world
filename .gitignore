@@ -1,0 +1,14 @@
+.ipynb_checkpoints
+*cache*
+*.pyc
+*.bak
+data*
+*.ipynb
+qubit-measurements*
+log/
+*.pkl
+.idea/*
+Git token
+spectrum_code
+*.pdf
+*.csv
